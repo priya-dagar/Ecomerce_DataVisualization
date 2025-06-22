@@ -58,25 +58,25 @@ ecommerce-data-visualization/
 ---
 
 ### 🔹 Monthly Sales Trend
-![Monthly Sales](visuals/monthly_sales.png)
+![Monthly Sales](Visuals/monthly_sales_trend.png)
 > **Insight:** Strong seasonal trends, especially spikes in November and December, indicate increased holiday shopping behavior.
 
 ---
 
 ### 🔹 Sales by Country
-![Sales by Country](visuals/sales_by_country.png)
+![Sales by Country](Visuals/sales_by_country.png)
 > **Insight:** The UK dominates sales, but international markets like Netherlands and Germany also show strong potential for growth.
 
 ---
 
 ### 🔹 Unit Price vs Quantity
-![Unit Price vs Quantity](visuals/price_vs_quantity.png)
+![Unit Price vs Quantity](Visuals/unitprice_vs_quantity.png)
 > **Insight:** Lower-priced products tend to be purchased in higher quantities, reflecting price sensitivity and volume-driven behavior.
 
 ---
 
 ### 🔹 Outliers in Total Price
-![Outliers](visuals/outliers_boxplot.png)
+![Outliers](Visuals/boxplot_totalprice.png)
 > **Insight:** A few high-value transactions may represent bulk orders or data entry errors. These should be reviewed separately.
 
 ---
