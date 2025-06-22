@@ -52,7 +52,7 @@ ecommerce-data-visualization/
 ## 📊 Key Visualizations
 
 ### 🔹 Top-Selling Products
-![Top Products](Visuals/sales_by_top_product.png)
+![Top Products](Visuals/sales_by_top_products.png)
 > **Insight:** These products contribute the most to total revenue. Business teams should prioritize these in campaigns and inventory planning.
 
 ---
